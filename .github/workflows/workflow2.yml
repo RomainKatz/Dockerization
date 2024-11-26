@@ -24,4 +24,4 @@ jobs:
         with:
           context: "{{defaultContext}}"
           push: true
-          tags: mathispappo/hotelroomapi:latest
+          tags: romainkatzz/hotelroomapi:latest
